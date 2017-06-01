@@ -1,5 +1,8 @@
 body{
 	background-color: pink;
+	color: blue;
+	font-family: verdana, sans-serif;
+	font-size: 1.5em;	
 }
 
 p{
